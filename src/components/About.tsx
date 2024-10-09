@@ -8,12 +8,12 @@ const About: React.FC = () => {
         <div className="flex flex-col md:flex-row items-center">
           <img
             src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&q=80"
-            alt="Juan Pérez"
+            alt="Angel Tapia"
             className="rounded-full w-64 h-64 object-cover mb-8 md:mb-0 md:mr-8"
           />
           <div>
             <p className="text-lg mb-4">
-              Soy Juan Pérez, un apasionado ingeniero en computación con más de 5 años de experiencia en el desarrollo de software y soluciones tecnológicas innovadoras.
+              Soy Angel Tapia, un apasionado ingeniero en computación con más de 5 años de experiencia en el desarrollo de software y soluciones tecnológicas innovadoras.
             </p>
             <p className="text-lg">
               Mi enfoque se centra en crear aplicaciones eficientes y escalables, siempre buscando aprender y aplicar las últimas tecnologías en mis proyectos.

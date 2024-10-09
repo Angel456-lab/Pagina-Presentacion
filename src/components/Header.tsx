@@ -5,7 +5,7 @@ const Header: React.FC = () => {
   return (
     <header className="bg-blue-600 text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
-        <h1 className="text-2xl font-bold">Juan Pérez</h1>
+        <h1 className="text-2xl font-bold">Angel Tapia</h1>
         <nav>
           <ul className="flex space-x-4">
             <li><a href="#sobre-mi" className="flex items-center"><User className="mr-1" size={18} /> Sobre mí</a></li>

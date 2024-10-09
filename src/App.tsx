@@ -14,7 +14,7 @@ function App() {
         <Projects />
       </main>
       <footer className="bg-blue-600 text-white py-4 text-center">
-        <p>&copy; 2024 Juan Pérez. Todos los derechos reservados.</p>
+        <p>&copy; 2024 Angel Tapia. Todos los derechos reservados.</p>
       </footer>
     </div>
   )
